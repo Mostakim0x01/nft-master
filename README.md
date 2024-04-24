@@ -30,7 +30,7 @@ The more complex route allows you to add additional functionality if you are com
 <b> Added Story</b> <br>
 <b> Added FAQ</b> <br>
 <b> Added Auto Network Switch</b> <br>
- Will be adding Merkle Tree whitelit soon...
+ Will be adding Merkle Tree whitelit soon.
 
 ## Installation 🛠️
 
